@@ -36,7 +36,7 @@ This project demonstrates the use of **DeepFace** for real-time face and emotion
 To install the necessary dependencies, run:
 
 ```bash
-pip install deepface opencv-python pyttsx3
+pip install deepface opencv-python pyttsx3 or pip install -r req.txt
 ```
 
 ---
@@ -92,11 +92,6 @@ pip install deepface opencv-python pyttsx3
 - **Module Not Found**: Ensure you have installed the necessary Python modules using `pip install`.
 - **DeepFace errors**: DeepFace uses pre-trained models which may occasionally throw errors if the models are not properly loaded.
 
----
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
